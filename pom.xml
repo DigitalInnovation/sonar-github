@@ -6,7 +6,7 @@
     <groupId>org.sonarsource.parent</groupId>
     <artifactId>parent</artifactId>
     <version>31</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>org.sonarsource.github</groupId>
@@ -88,7 +88,7 @@
     <dependency>
       <groupId>org.kohsuke</groupId>
       <artifactId>github-api</artifactId>
-      <version>1.73</version>
+      <version>1.99</version>
     </dependency>
 
     <!-- unit tests -->
